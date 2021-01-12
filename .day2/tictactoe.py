@@ -4,12 +4,16 @@ def play_player(n):
     try:
         if n==1 and board[t-1]=='-':
             board[t-1]= "X"
+            return True
         elif n==2 and board[t-1]=='-':
             board[t-1]= "O"
+            return True
         else:
             print("Invalid move")
+            return False
     except IndexError:
         print("Invalid move")
+        return False
 def showboard():
     print(board[0]+" | "+board[1]+" | "+board[2])
     print(board[3]+" | "+board[4]+" | "+board[5])
@@ -49,13 +53,13 @@ def play_game():
             showboard()
         beg=1
         if playernum == 1:
-            play_player(1)
-            temp = 2
+            if play_player(1):
+                temp = 2
         else:
-            play_player(2)
-            temp=1
+            if play_player(2):
+                temp=1
         showboard()
         if checkwin(playernum):
-            break
+            exit
         playernum = temp    
 play_game()
