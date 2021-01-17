@@ -1,0 +1,349 @@
+,movie,year,imdb,metascore,votes
+0,Avengers: Infinity War,2018,8.4,68,829282
+1,Black Panther,2018,7.3,88,622975
+2,Deadpool 2,2018,7.7,66,476565
+3,Bohemian Rhapsody,2018,8.0,49,448229
+4,A Quiet Place,2018,7.5,82,406322
+5,Green Book,2018,8.2,69,373251
+6,Spider-Man: Into the Spider-Verse,2018,8.4,87,371598
+7,Aquaman,2018,6.9,55,369158
+8,Ready Player One,2018,7.5,64,367256
+9,Venom,2018,6.7,35,358963
+10,A Star Is Born,2018,7.6,88,332650
+11,Ant-Man and the Wasp,2018,7.1,70,307853
+12,Solo: A Star Wars Story,2018,6.9,62,290695
+13,Mission: Impossible - Fallout,2018,7.7,86,290205
+14,Annihilation,2018,6.8,79,279961
+15,Bird Box,2018,6.6,51,278196
+16,Jurassic World: Fallen Kingdom,2018,6.2,51,265623
+17,Incredibles 2,2018,7.6,80,248719
+18,Hereditary,2018,7.3,87,239074
+19,Fantastic Beasts: The Crimes of Grindelwald,2018,6.6,52,222096
+20,BlacKkKlansman,2018,7.5,83,221535
+21,Game Night,2018,6.9,66,206224
+22,Tomb Raider,2018,6.3,48,190166
+23,Ocean's Eight,2018,6.8,61,186381
+24,The Favourite,2018,7.5,91,171390
+25,First Man,2018,7.3,84,167724
+26,Red Sparrow,2018,6.6,53,165540
+27,Upgrade,2018,7.5,67,158409
+28,The Meg,2018,5.6,46,149625
+29,Rampage,2018,6.1,45,143346
+30,Crazy Rich Asians,2018,6.9,74,141193
+31,Searching,2018,7.6,71,140076
+32,Roma,2018,7.7,96,139721
+33,Bumblebee,2018,6.8,66,138242
+34,Isle of Dogs,2018,7.9,82,138036
+35,The Equalizer 2,2018,6.7,50,132619
+36,Ralph Breaks the Internet,2018,7.0,71,131014
+37,A Simple Favor,2018,6.8,67,128538
+38,Bad Times at the El Royale,2018,7.1,60,128350
+39,Sicario: Day of the Soldado,2018,7.1,61,124779
+40,The Ballad of Buster Scruggs,2018,7.3,79,121723
+41,Vice,2018,7.2,61,121113
+42,Halloween,2018,6.5,67,120780
+43,The Nun,2018,5.3,46,118065
+44,The Predator,2018,5.3,48,115953
+45,Tag,2018,6.5,56,114110
+46,Avengers: Infinity War,2018,8.4,68,829282
+47,Black Panther,2018,7.3,88,622975
+48,Deadpool 2,2018,7.7,66,476565
+49,Bohemian Rhapsody,2018,8.0,49,448229
+50,A Quiet Place,2018,7.5,82,406322
+51,Green Book,2018,8.2,69,373251
+52,Spider-Man: Into the Spider-Verse,2018,8.4,87,371598
+53,Aquaman,2018,6.9,55,369158
+54,Ready Player One,2018,7.5,64,367256
+55,Venom,2018,6.7,35,358963
+56,A Star Is Born,2018,7.6,88,332650
+57,Ant-Man and the Wasp,2018,7.1,70,307853
+58,Solo: A Star Wars Story,2018,6.9,62,290695
+59,Mission: Impossible - Fallout,2018,7.7,86,290205
+60,Annihilation,2018,6.8,79,279961
+61,Bird Box,2018,6.6,51,278196
+62,Jurassic World: Fallen Kingdom,2018,6.2,51,265623
+63,Incredibles 2,2018,7.6,80,248719
+64,Hereditary,2018,7.3,87,239074
+65,Fantastic Beasts: The Crimes of Grindelwald,2018,6.6,52,222096
+66,BlacKkKlansman,2018,7.5,83,221535
+67,Game Night,2018,6.9,66,206224
+68,Tomb Raider,2018,6.3,48,190166
+69,Ocean's Eight,2018,6.8,61,186381
+70,The Favourite,2018,7.5,91,171390
+71,First Man,2018,7.3,84,167724
+72,Red Sparrow,2018,6.6,53,165540
+73,Upgrade,2018,7.5,67,158409
+74,The Meg,2018,5.6,46,149625
+75,Rampage,2018,6.1,45,143346
+76,Crazy Rich Asians,2018,6.9,74,141193
+77,Searching,2018,7.6,71,140076
+78,Roma,2018,7.7,96,139721
+79,Bumblebee,2018,6.8,66,138242
+80,Isle of Dogs,2018,7.9,82,138036
+81,The Equalizer 2,2018,6.7,50,132619
+82,Ralph Breaks the Internet,2018,7.0,71,131014
+83,A Simple Favor,2018,6.8,67,128538
+84,Bad Times at the El Royale,2018,7.1,60,128350
+85,Sicario: Day of the Soldado,2018,7.1,61,124779
+86,The Ballad of Buster Scruggs,2018,7.3,79,121723
+87,Vice,2018,7.2,61,121113
+88,Halloween,2018,6.5,67,120780
+89,The Nun,2018,5.3,46,118065
+90,The Predator,2018,5.3,48,115953
+91,Tag,2018,6.5,56,114110
+92,Avengers: Infinity War,2018,8.4,68,829282
+93,Black Panther,2018,7.3,88,622975
+94,Deadpool 2,2018,7.7,66,476565
+95,Bohemian Rhapsody,2018,8.0,49,448229
+96,A Quiet Place,2018,7.5,82,406322
+97,Green Book,2018,8.2,69,373251
+98,Spider-Man: Into the Spider-Verse,2018,8.4,87,371598
+99,Aquaman,2018,6.9,55,369158
+100,Ready Player One,2018,7.5,64,367256
+101,Venom,2018,6.7,35,358963
+102,A Star Is Born,2018,7.6,88,332650
+103,Ant-Man and the Wasp,2018,7.1,70,307853
+104,Solo: A Star Wars Story,2018,6.9,62,290695
+105,Mission: Impossible - Fallout,2018,7.7,86,290205
+106,Annihilation,2018,6.8,79,279961
+107,Bird Box,2018,6.6,51,278196
+108,Jurassic World: Fallen Kingdom,2018,6.2,51,265623
+109,Incredibles 2,2018,7.6,80,248719
+110,Hereditary,2018,7.3,87,239074
+111,Fantastic Beasts: The Crimes of Grindelwald,2018,6.6,52,222096
+112,BlacKkKlansman,2018,7.5,83,221535
+113,Game Night,2018,6.9,66,206224
+114,Tomb Raider,2018,6.3,48,190166
+115,Ocean's Eight,2018,6.8,61,186381
+116,The Favourite,2018,7.5,91,171390
+117,First Man,2018,7.3,84,167724
+118,Red Sparrow,2018,6.6,53,165540
+119,Upgrade,2018,7.5,67,158409
+120,The Meg,2018,5.6,46,149625
+121,Rampage,2018,6.1,45,143346
+122,Crazy Rich Asians,2018,6.9,74,141193
+123,Searching,2018,7.6,71,140076
+124,Roma,2018,7.7,96,139721
+125,Bumblebee,2018,6.8,66,138242
+126,Isle of Dogs,2018,7.9,82,138036
+127,The Equalizer 2,2018,6.7,50,132619
+128,Ralph Breaks the Internet,2018,7.0,71,131014
+129,A Simple Favor,2018,6.8,67,128538
+130,Bad Times at the El Royale,2018,7.1,60,128350
+131,Sicario: Day of the Soldado,2018,7.1,61,124779
+132,The Ballad of Buster Scruggs,2018,7.3,79,121723
+133,Vice,2018,7.2,61,121113
+134,Halloween,2018,6.5,67,120780
+135,The Nun,2018,5.3,46,118065
+136,The Predator,2018,5.3,48,115953
+137,Tag,2018,6.5,56,114110
+138,Avengers: Infinity War,2018,8.4,68,829282
+139,Black Panther,2018,7.3,88,622975
+140,Deadpool 2,2018,7.7,66,476565
+141,Bohemian Rhapsody,2018,8.0,49,448229
+142,A Quiet Place,2018,7.5,82,406322
+143,Green Book,2018,8.2,69,373251
+144,Spider-Man: Into the Spider-Verse,2018,8.4,87,371598
+145,Aquaman,2018,6.9,55,369158
+146,Ready Player One,2018,7.5,64,367256
+147,Venom,2018,6.7,35,358963
+148,A Star Is Born,2018,7.6,88,332650
+149,Ant-Man and the Wasp,2018,7.1,70,307853
+150,Solo: A Star Wars Story,2018,6.9,62,290695
+151,Mission: Impossible - Fallout,2018,7.7,86,290205
+152,Annihilation,2018,6.8,79,279961
+153,Bird Box,2018,6.6,51,278196
+154,Jurassic World: Fallen Kingdom,2018,6.2,51,265623
+155,Incredibles 2,2018,7.6,80,248719
+156,Hereditary,2018,7.3,87,239074
+157,Fantastic Beasts: The Crimes of Grindelwald,2018,6.6,52,222096
+158,BlacKkKlansman,2018,7.5,83,221535
+159,Game Night,2018,6.9,66,206224
+160,Tomb Raider,2018,6.3,48,190166
+161,Ocean's Eight,2018,6.8,61,186381
+162,The Favourite,2018,7.5,91,171390
+163,First Man,2018,7.3,84,167724
+164,Red Sparrow,2018,6.6,53,165540
+165,Upgrade,2018,7.5,67,158409
+166,The Meg,2018,5.6,46,149625
+167,Rampage,2018,6.1,45,143346
+168,Crazy Rich Asians,2018,6.9,74,141193
+169,Searching,2018,7.6,71,140076
+170,Roma,2018,7.7,96,139721
+171,Bumblebee,2018,6.8,66,138242
+172,Isle of Dogs,2018,7.9,82,138036
+173,The Equalizer 2,2018,6.7,50,132619
+174,Ralph Breaks the Internet,2018,7.0,71,131014
+175,A Simple Favor,2018,6.8,67,128538
+176,Bad Times at the El Royale,2018,7.1,60,128350
+177,Sicario: Day of the Soldado,2018,7.1,61,124779
+178,The Ballad of Buster Scruggs,2018,7.3,79,121723
+179,Vice,2018,7.2,61,121113
+180,Halloween,2018,6.5,67,120780
+181,The Nun,2018,5.3,46,118065
+182,The Predator,2018,5.3,48,115953
+183,Tag,2018,6.5,56,114110
+184,Joker,2019,8.5,59,930457
+185,Avengers: Endgame,2019,8.4,78,801630
+186,Once Upon a Time... In Hollywood,2019,7.6,83,545370
+187,Parasite,2019,8.6,96,542945
+188,Knives Out,2019,7.9,82,446311
+189,Captain Marvel,2019,6.9,64,438227
+190,1917,2019,8.3,78,418761
+191,Star Wars: The Rise Of Skywalker,2019,6.6,53,370917
+192,The Irishman,2019,7.9,94,322191
+193,Spider-Man: Far from Home,2019,7.5,69,321531
+194,Jojo Rabbit,2019,7.9,58,293633
+195,Ford v Ferrari,2019,8.1,81,287357
+196,John Wick: Chapter 3 - Parabellum,2019,7.4,73,273651
+197,Shazam!,2019,7.0,71,253994
+198,Marriage Story,2019,7.9,94,244353
+199,The Gentlemen,2019,7.8,51,231429
+200,Alita: Battle Angel,2019,7.3,53,227116
+201,Aladdin,2019,6.9,53,226393
+202,Us,2019,6.8,81,225291
+203,Uncut Gems,2019,7.4,91,218025
+204,The Lion King,2019,6.9,55,210623
+205,Glass,2019,6.7,43,207134
+206,It Chapter Two,2019,6.5,58,206485
+207,Toy Story 4,2019,7.8,84,201452
+208,Midsommar,2019,7.1,72,198576
+209,Ad Astra,2019,6.5,80,197572
+210,Jumanji: The Next Level,2019,6.7,58,186082
+211,El Camino: A Breaking Bad Movie,2019,7.3,72,182219
+212,Fast & Furious Presents: Hobbs & Shaw,2019,6.4,60,166065
+213,The Platform,2019,7.0,73,162119
+214,X-Men: Dark Phoenix,2019,5.7,43,154528
+215,Terminator: Dark Fate,2019,6.2,54,148514
+216,Doctor Sleep,2019,7.3,59,141888
+217,Little Women,2019,7.8,91,141160
+218,The Lighthouse,2019,7.5,83,140720
+219,Zombieland: Double Tap,2019,6.7,55,138394
+220,6 Underground,2019,6.1,41,138373
+221,Pokémon Detective Pikachu,2019,6.6,53,136667
+222,Frozen II,2019,6.9,64,135515
+223,Rocketman,2019,7.3,69,135384
+224,Godzilla: King of the Monsters,2019,6.0,48,131434
+225,Joker,2019,8.5,59,930457
+226,Avengers: Endgame,2019,8.4,78,801630
+227,Once Upon a Time... In Hollywood,2019,7.6,83,545370
+228,Parasite,2019,8.6,96,542945
+229,Knives Out,2019,7.9,82,446311
+230,Captain Marvel,2019,6.9,64,438227
+231,1917,2019,8.3,78,418761
+232,Star Wars: The Rise Of Skywalker,2019,6.6,53,370917
+233,The Irishman,2019,7.9,94,322191
+234,Spider-Man: Far from Home,2019,7.5,69,321531
+235,Jojo Rabbit,2019,7.9,58,293633
+236,Ford v Ferrari,2019,8.1,81,287357
+237,John Wick: Chapter 3 - Parabellum,2019,7.4,73,273651
+238,Shazam!,2019,7.0,71,253994
+239,Marriage Story,2019,7.9,94,244353
+240,The Gentlemen,2019,7.8,51,231429
+241,Alita: Battle Angel,2019,7.3,53,227116
+242,Aladdin,2019,6.9,53,226393
+243,Us,2019,6.8,81,225291
+244,Uncut Gems,2019,7.4,91,218025
+245,The Lion King,2019,6.9,55,210623
+246,Glass,2019,6.7,43,207134
+247,It Chapter Two,2019,6.5,58,206485
+248,Toy Story 4,2019,7.8,84,201452
+249,Midsommar,2019,7.1,72,198576
+250,Ad Astra,2019,6.5,80,197572
+251,Jumanji: The Next Level,2019,6.7,58,186082
+252,El Camino: A Breaking Bad Movie,2019,7.3,72,182219
+253,Fast & Furious Presents: Hobbs & Shaw,2019,6.4,60,166065
+254,The Platform,2019,7.0,73,162119
+255,X-Men: Dark Phoenix,2019,5.7,43,154528
+256,Terminator: Dark Fate,2019,6.2,54,148514
+257,Doctor Sleep,2019,7.3,59,141888
+258,Little Women,2019,7.8,91,141160
+259,The Lighthouse,2019,7.5,83,140720
+260,Zombieland: Double Tap,2019,6.7,55,138394
+261,6 Underground,2019,6.1,41,138373
+262,Pokémon Detective Pikachu,2019,6.6,53,136667
+263,Frozen II,2019,6.9,64,135515
+264,Rocketman,2019,7.3,69,135384
+265,Godzilla: King of the Monsters,2019,6.0,48,131434
+266,Joker,2019,8.5,59,930457
+267,Avengers: Endgame,2019,8.4,78,801630
+268,Once Upon a Time... In Hollywood,2019,7.6,83,545370
+269,Parasite,2019,8.6,96,542945
+270,Knives Out,2019,7.9,82,446311
+271,Captain Marvel,2019,6.9,64,438227
+272,1917,2019,8.3,78,418761
+273,Star Wars: The Rise Of Skywalker,2019,6.6,53,370917
+274,The Irishman,2019,7.9,94,322191
+275,Spider-Man: Far from Home,2019,7.5,69,321531
+276,Jojo Rabbit,2019,7.9,58,293633
+277,Ford v Ferrari,2019,8.1,81,287357
+278,John Wick: Chapter 3 - Parabellum,2019,7.4,73,273651
+279,Shazam!,2019,7.0,71,253994
+280,Marriage Story,2019,7.9,94,244353
+281,The Gentlemen,2019,7.8,51,231429
+282,Alita: Battle Angel,2019,7.3,53,227116
+283,Aladdin,2019,6.9,53,226393
+284,Us,2019,6.8,81,225291
+285,Uncut Gems,2019,7.4,91,218025
+286,The Lion King,2019,6.9,55,210623
+287,Glass,2019,6.7,43,207134
+288,It Chapter Two,2019,6.5,58,206485
+289,Toy Story 4,2019,7.8,84,201452
+290,Midsommar,2019,7.1,72,198576
+291,Ad Astra,2019,6.5,80,197572
+292,Jumanji: The Next Level,2019,6.7,58,186082
+293,El Camino: A Breaking Bad Movie,2019,7.3,72,182219
+294,Fast & Furious Presents: Hobbs & Shaw,2019,6.4,60,166065
+295,The Platform,2019,7.0,73,162119
+296,X-Men: Dark Phoenix,2019,5.7,43,154528
+297,Terminator: Dark Fate,2019,6.2,54,148514
+298,Doctor Sleep,2019,7.3,59,141888
+299,Little Women,2019,7.8,91,141160
+300,The Lighthouse,2019,7.5,83,140720
+301,Zombieland: Double Tap,2019,6.7,55,138394
+302,6 Underground,2019,6.1,41,138373
+303,Pokémon Detective Pikachu,2019,6.6,53,136667
+304,Frozen II,2019,6.9,64,135515
+305,Rocketman,2019,7.3,69,135384
+306,Godzilla: King of the Monsters,2019,6.0,48,131434
+307,Joker,2019,8.5,59,930457
+308,Avengers: Endgame,2019,8.4,78,801630
+309,Once Upon a Time... In Hollywood,2019,7.6,83,545370
+310,Parasite,2019,8.6,96,542945
+311,Knives Out,2019,7.9,82,446311
+312,Captain Marvel,2019,6.9,64,438227
+313,1917,2019,8.3,78,418761
+314,Star Wars: The Rise Of Skywalker,2019,6.6,53,370917
+315,The Irishman,2019,7.9,94,322191
+316,Spider-Man: Far from Home,2019,7.5,69,321531
+317,Jojo Rabbit,2019,7.9,58,293633
+318,Ford v Ferrari,2019,8.1,81,287357
+319,John Wick: Chapter 3 - Parabellum,2019,7.4,73,273651
+320,Shazam!,2019,7.0,71,253994
+321,Marriage Story,2019,7.9,94,244353
+322,The Gentlemen,2019,7.8,51,231429
+323,Alita: Battle Angel,2019,7.3,53,227116
+324,Aladdin,2019,6.9,53,226393
+325,Us,2019,6.8,81,225291
+326,Uncut Gems,2019,7.4,91,218025
+327,The Lion King,2019,6.9,55,210623
+328,Glass,2019,6.7,43,207134
+329,It Chapter Two,2019,6.5,58,206485
+330,Toy Story 4,2019,7.8,84,201452
+331,Midsommar,2019,7.1,72,198576
+332,Ad Astra,2019,6.5,80,197572
+333,Jumanji: The Next Level,2019,6.7,58,186082
+334,El Camino: A Breaking Bad Movie,2019,7.3,72,182219
+335,Fast & Furious Presents: Hobbs & Shaw,2019,6.4,60,166065
+336,The Platform,2019,7.0,73,162119
+337,X-Men: Dark Phoenix,2019,5.7,43,154528
+338,Terminator: Dark Fate,2019,6.2,54,148514
+339,Doctor Sleep,2019,7.3,59,141888
+340,Little Women,2019,7.8,91,141160
+341,The Lighthouse,2019,7.5,83,140720
+342,Zombieland: Double Tap,2019,6.7,55,138394
+343,6 Underground,2019,6.1,41,138373
+344,Pokémon Detective Pikachu,2019,6.6,53,136667
+345,Frozen II,2019,6.9,64,135515
+346,Rocketman,2019,7.3,69,135384
+347,Godzilla: King of the Monsters,2019,6.0,48,131434
